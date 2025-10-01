@@ -1,5 +1,6 @@
-# 💫 About Me:
-# Hi there 👋 I'm Afrina Fais<br><br><p style="font-size:15px">💻 IT Consultant | Tech Enthusiast | Problem Solver<br>I’m an IT Consultant with a strong interest in helping businesses leverage technology to achieve efficiency and growth.<br><br>⚙️ Skilled in System Analysis, Software Development, and Cloud Solutions<br><br>🛠️ Hands-on experience in C#, .NET, SQL, and Web Technologies<br><br>☁️ Familiar with Cloud Computing (Azure / AWS) and Cybersecurity best practices<br><br>🤝 Passionate about bridging the gap between business needs and technical solutions<br><br>📚 Always learning, adapting, and exploring new technologies to deliver innovative IT solutions.<br>🚀 Open to collaborating on tech projects, knowledge sharing, and problem-solving.</p>
+
+# Hi there 👋 I'm Afrina Fais<br><br>
+<p style="font-size:15px">💻 IT Consultant | Tech Enthusiast | Problem Solver<br>I’m an IT Consultant with a strong interest in helping businesses leverage technology to achieve efficiency and growth.<br><br>⚙️ Skilled in System Analysis, Software Development, and Cloud Solutions<br><br>🛠️ Hands-on experience in C#, .NET, SQL, and Web Technologies<br><br>☁️ Familiar with Cloud Computing (Azure / AWS) and Cybersecurity best practices<br><br>🤝 Passionate about bridging the gap between business needs and technical solutions<br><br>📚 Always learning, adapting, and exploring new technologies to deliver innovative IT solutions.<br>🚀 Open to collaborating on tech projects, knowledge sharing, and problem-solving.</p>
 
 
 ## 🌐 Socials:
